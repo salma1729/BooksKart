@@ -27,6 +27,7 @@ export const sliderItems = [
       id: 1,
       img: "/images/historical fiction.jpg",
       title: "HISTORICAL FICTION",
+      cat : "history"
     },
     // {
     //   id: 2,
@@ -37,11 +38,13 @@ export const sliderItems = [
       id: 3,
       img: "/images/selfhelps.jpg",
       title: "SELF HELP BOOKS",
+      cat : "self"
     },
     {
         id: 4,
         img: "/images/thriller fiction.jpg",
         title: "THRILLER FICTION",
+        cat : "thriller"
       },
   ];
 
